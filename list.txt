@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ksenofontov niloay yurevich
 test
+=======
+Antonov Sergey Alexandrovich
+>>>>>>> listSergey
